@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Outersphere 1
+  m_Shader: {fileID: -6465566751694194690, guid: 9dd7a4e013ed0f54ba7d08b8da68959c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_8410b607d3564accacc15994996dde97_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e1e8f8e83773023478c56613a1dda6bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ef1e9a0f228a4aa0b027e41c108d235e_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e1e8f8e83773023478c56613a1dda6bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2e656033b85943029db0d2145f2af640: 2
+    - Vector1_5e9baa0739a0453084111cbbb5721ea6: -2.52
+    - Vector1_86653db11c6c4625a57b105b1ca6c187: 0.01
+    - Vector1_a40db45ccda74d3ab4ddf41a281cd9d0: 0.005
+    - Vector1_b7c50bd6e7ef4232b7239fcee50b2c77: 2
+    - Vector1_c7ca9d654d254f5884a7a4225eb734a5: 0.1
+    - Vector1_d036d9a026b14f70a81953a0261e54fe: 0.1
+    - Vector1_d5ed596428e7489c9fce453c70f2bf80: 0.5
+    m_Colors:
+    - Color_988e32305e1240ddbb91d872bc024ece: {r: 0, g: 2, b: 0.2209301, a: 1}
+    - Color_bb8f0b84b9a64b1d80b2624656ce2283: {r: 0, g: 1, b: 0.123636246, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &1036928641478312442
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4

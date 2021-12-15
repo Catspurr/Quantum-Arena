@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build/SimonStartScreen.unity
+    guid: a8153c1b722604f46ac8ead805b9931a
+  - enabled: 1
+    path: Assets/Scenes/Build/MainMenu.unity
+    guid: 48c8b3a96978b7d4fb5a7f33e7df3746
+  - enabled: 1
+    path: Assets/Scenes/Build/GameScene.unity
+    guid: 756d3200dfd7deb4ea22cba8fd931742
+  - enabled: 1
+    path: Assets/Scenes/Build/GameScene 1.unity
+    guid: e7646cdbcad7948429ecf0c9325ad94c
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1/Game1v1.unity
+    guid: 1b14b4d4f3f90f24f867f21246bb800e
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1/Game1v1_2.unity
+    guid: 9e420c1200a50384b846e035f12bc2ee
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1/Game1v1_4.unity
+    guid: 04a66fd28bf9dee4aa0a5e27634a6c76
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1/Game1v1_3.unity
+    guid: 4db3874c3db1df546b0a944159709633
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1/Game1v1_5.unity
+    guid: e50fda123e3322f43b61d15a9648f5a3
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1Bots/Game1v1Bots.unity
+    guid: e6ad021c35ef7f84c9bfcfb7c4db9309
+  - enabled: 1
+    path: Assets/Scenes/Build/1v1Bots/Game1v1Bots_2.unity
+    guid: b039d636bf739de43a871e9156bfcc23
+  - enabled: 1
+    path: Assets/Scenes/Build/2v2/Game2v2.unity
+    guid: 75261e465288d5847b9949e2c2ff9964
+  - enabled: 1
+    path: Assets/Scenes/Build/2v2/Game2v2_2.unity
+    guid: 50ccc3a5f28895846ab4ef4a34ef314f
+  - enabled: 1
+    path: Assets/Scenes/Build/2v2Bots/Game2v2Bots.unity
+    guid: cd5ea8ac046503343850564b3d987741
+  - enabled: 1
+    path: Assets/Scenes/Build/2v2Bots/Game2v2Bots_2.unity
+    guid: 4bea49be571f5f545972e1b2263f029a
+  - enabled: 1
+    path: Assets/Scenes/Build/FFA/GameFFA.unity
+    guid: a6af56a5991344f4888d9e3cce972ecf
+  - enabled: 1
+    path: Assets/Scenes/Build/FFA/GameFFA_2.unity
+    guid: 688fa605723c8f9499642fe06d4bf156
+  - enabled: 1
+    path: Assets/Scenes/Build/FFA/GameFFA_3.unity
+    guid: 0a2fd10993db460449b5ef53be23ac24
+  - enabled: 1
+    path: Assets/Scenes/Build/FFA/GameFFA_4.unity
+    guid: 5de05e6bb47142f4fac21198743799fa
+  - enabled: 1
+    path: Assets/Scenes/Build/FFA/GameFFA_5.unity
+    guid: e548e988f0773a041a2c2b832322814d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 28de93f473d6fe24aadfae697af80fd5, type: 2}

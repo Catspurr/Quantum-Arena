@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 3d8a726846e951c43acf15aa4f1c9221
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cylinder
+    100002: grid
+    100004: grid1
+    100006: grid2
+    100008: grid3
+    100010: grid4
+    100012: grid5
+    100014: //RootNode
+    100016: polymsh1
+    100018: polymsh2
+    100020: polymsh3
+    100022: polymsh4
+    100024: polymsh5
+    100026: polymsh6
+    100028: Podium
+    100030: PodiumCloth
+    100032: Podium:mirror
+    100034: Podium:Podium
+    100036: Podium:PodiumCloth
+    400000: cylinder
+    400002: grid
+    400004: grid1
+    400006: grid2
+    400008: grid3
+    400010: grid4
+    400012: grid5
+    400014: //RootNode
+    400016: polymsh1
+    400018: polymsh2
+    400020: polymsh3
+    400022: polymsh4
+    400024: polymsh5
+    400026: polymsh6
+    400028: Podium
+    400030: PodiumCloth
+    400032: Podium:mirror
+    400034: Podium:Podium
+    400036: Podium:PodiumCloth
+    2100000: M_Podium
+    2100002: M_Podium_Mirror
+    2300000: cylinder
+    2300002: grid
+    2300004: grid1
+    2300006: grid2
+    2300008: grid3
+    2300010: grid4
+    2300012: grid5
+    2300014: polymsh1
+    2300016: polymsh2
+    2300018: polymsh3
+    2300020: polymsh4
+    2300022: polymsh5
+    2300024: polymsh6
+    2300026: Podium
+    2300028: PodiumCloth
+    2300030: Podium:mirror
+    2300032: Podium:Podium
+    2300034: Podium:PodiumCloth
+    3300000: cylinder
+    3300002: grid
+    3300004: grid1
+    3300006: grid2
+    3300008: grid3
+    3300010: grid4
+    3300012: grid5
+    3300014: polymsh1
+    3300016: polymsh2
+    3300018: polymsh3
+    3300020: polymsh4
+    3300022: polymsh5
+    3300024: polymsh6
+    3300026: Podium
+    3300028: PodiumCloth
+    3300030: Podium:mirror
+    3300032: Podium:Podium
+    3300034: Podium:PodiumCloth
+    4300000: cylinder
+    4300002: grid
+    4300004: polymsh1
+    4300006: polymsh2
+    4300008: grid1
+    4300010: polymsh3
+    4300012: grid2
+    4300014: polymsh4
+    4300016: grid3
+    4300018: polymsh5
+    4300020: grid4
+    4300022: polymsh6
+    4300024: grid5
+    4300026: Podium
+    4300028: PodiumCloth
+    4300030: Podium:Podium
+    4300032: Podium:PodiumCloth
+    4300034: Podium:mirror
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Podium
+    second: {fileID: 2100000, guid: a42c5c036b3a16b4ea2b6070d8d7dbc6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
